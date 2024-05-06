@@ -10,6 +10,7 @@
  
 #### INSTALL TOOL ON TERMUX
 ```python
+COMMOND
 pkg update 
 pkg upgrade
 pkg install python
@@ -21,8 +22,4 @@ pip install urllib3
 pip install rich
 pip install bs4
 termux-setup-storage
-rm -rf post
-git clone https://github.com/NEHA-QUEEN
-cd post
-python post.py
 ```
